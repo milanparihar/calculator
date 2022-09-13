@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+   
+}
+
+.calculator{
+    border: solid black 2px;
+    border-radius: 8px;
+    
+    
+}
+
+.display-box{
+     
+}
+
+.btn{
+   
+}
+
+
+.number, .operator{
+    padding: 40px;
+    border-radius: 30px;
+    font-size: 35px;
+    margin: 10px;
+    color: rgb(27, 26, 26);
+     
+}
