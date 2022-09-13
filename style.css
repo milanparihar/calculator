@@ -12,7 +12,9 @@
 }
 
 .display-box{
-     
+    padding: 27px;
+    margin: 14px;
+    font-size: 21px;
 }
 
 .btn{
@@ -20,11 +22,11 @@
 }
 
 
-.number, .operator{
-    padding: 40px;
+.number{
+    padding: 20px 50px 20px 50px;
     border-radius: 30px;
-    font-size: 35px;
-    margin: 10px;
+    font-size: 31px;
+    margin: 2px;
     color: rgb(27, 26, 26);
      
 }
